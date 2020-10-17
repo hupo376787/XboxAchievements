@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Vincent\Desktop\Cup.png</Source>
+    <SmallTileSource>C:\Users\Vincent\Desktop\Cup.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Vincent\Desktop\Cup.png</MediumTileSource>
+    <WideTileSource>C:\Users\Vincent\Desktop\Cup.png</WideTileSource>
+    <LargeTileSource>C:\Users\Vincent\Desktop\Cup.png</LargeTileSource>
+    <AppIconSource>C:\Users\Vincent\Desktop\Cup.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Vincent\Desktop\Cup.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Vincent\Desktop\Cup.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
